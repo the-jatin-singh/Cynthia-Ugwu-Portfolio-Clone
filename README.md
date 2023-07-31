@@ -15,23 +15,21 @@ GSAP Animations: Utilized GSAP for smooth and eye-catching animations, adding a 
 Incorporated Scroll Trigger to trigger animations based on scrolling, enhancing the overall visual appeal.
 
 # Technologies Used
-HTML: Structuring the website's layout and content.
-CSS: Styling and responsive design for a visually appealing look.
-JavaScript: Implementing interactivity and animations for a dynamic user experience.
-Locomotive Scroll: Facilitating smooth scrolling behavior.
-GSAP: Adding animation effects to various elements on the website.
+- HTML: Structuring the website's layout and content.
+- CSS: Styling and responsive design for a visually appealing look.
+- JavaScript: Implementing interactivity and animations for a dynamic user experience.
+- Locomotive Scroll: Facilitating smooth scrolling behavior.
+- GSAP: Adding animation effects to various elements on the website.
 
 # Usage
-Clone the repository to your local machine.
-Open index.html in your preferred web browser to explore the cloned portfolio website.
+- Clone the repository to your local machine.
+- Open index.html in your preferred web browser to explore the cloned portfolio website.
 
 # Credits
-Cynthia Ugwu: Original creator of the portfolio design. The cloned website is based on her work.
-Author
+- Cynthia Ugwu: Original creator of the portfolio design. The cloned website is based on her work.
+
+# Author
 This portfolio clone project was created by Jatin Singh. It serves as a testament to my front-end development skills and dedication to continuous learning and improvement.
 
 # Feedback
-Feedback and suggestions for improvements are welcome. Feel free to contact [Your Name] to provide feedback and contribute to the project's growth.
-
-License
-This project is licensed under the [License Name]. You are free to use, modify, and distribute the code as per the license terms.
+Feedback and suggestions for improvements are welcome. Feel free to contact me to provide feedback and contribute to the project's growth.
